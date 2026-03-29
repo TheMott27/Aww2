@@ -1,0 +1,33 @@
+{
+  "uuid": "8b5d9de0-4f85-4b62-82a9-5c171b8b6a41",
+  "shortName": "WeatherDial12",
+  "longName": "Weather Dial 12",
+  "companyName": "OpenAI",
+  "versionLabel": "0.1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "capabilities": ["location"],
+  "targetPlatforms": ["basalt"],
+  "enableMultiJS": false,
+  "resources": {
+    "media": []
+  },
+  "messageKeys": {
+    "KEY_TEMP": 0,
+    "KEY_CODES": 1,
+    "KEY_BG_COLOR": 2,
+    "KEY_HOUR_COLOR": 3,
+    "KEY_MINUTE_COLOR": 4,
+    "KEY_CENTER_COLOR": 5,
+    "KEY_BATTERY_COLOR": 6,
+    "KEY_BATTERY_LOW_COLOR": 7,
+    "KEY_TEMP_COLOR": 8,
+    "KEY_TICK_COLOR": 9,
+    "KEY_ICON_ACCENT_COLOR": 10,
+    "KEY_UNITS": 11,
+    "KEY_PROVIDER": 12,
+    "KEY_OWM_API_KEY": 13,
+    "KEY_REQUEST_WEATHER": 14
+  }
+}

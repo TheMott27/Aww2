@@ -1,0 +1,9 @@
+{
+  "author": "OpenAI",
+  "name": "weather-dial-12",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "pebble-clay": "^1.0.4"
+  }
+}
